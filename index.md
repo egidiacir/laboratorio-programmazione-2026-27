@@ -1,11 +1,18 @@
-# Laboratorio di Programmazione — A.A. 2026/27
+# Laboratorio di Programmazione
 
-Benvenuti nella pagina del Laboratorio di Programmazione.
+**A.A. 2026/27 — L-IINF (J–Z)**  
+**Sede:** Fuorigrotta  
+**Docente:** Egidia Cirillo
 
-**Docente:** Egidia Cirillo  
-**Corso:** L-IINF (J–Z)  
-**Sede:** Fuorigrotta
+Benvenuti nella pagina del corso. Qui pubblicherò il materiale delle lezioni e gli avvisi.
 
-## Materiale delle lezioni
+## Avvisi
 
-Qui saranno pubblicati slide, esercizi e comunicazioni.
+Le informazioni sul corso saranno pubblicate qui.
+
+## Lezioni
+
+| N. | Data | Argomento | Slide | Esercizi |
+| --- | --- | --- | --- | --- |
+| 1 | Da definire | Introduzione al corso | — | — |
+| 2 | Da definire | Da definire | — | — |
