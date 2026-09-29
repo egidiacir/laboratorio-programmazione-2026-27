@@ -14,5 +14,5 @@ Le informazioni sul corso saranno pubblicate qui.
 
 | N. | Data | Argomento | Slide | Esercizi |
 | --- | --- | --- | --- | --- |
-| 1 | 29/09/2026 | Introduzione al corso | — | — |
+| 1 | 29/09/2026 | Introduzione al corso | [Slide](lezioni/L01/Lezione01_Benvenuti_in_Java.pdf) | [Esercizi](https://github.com/egidiacir/laboratorio-programmazione-2026-27/tree/main/lezioni/L01/esercizi) |
 | 2 | Da definire | Da definire | — | — |
