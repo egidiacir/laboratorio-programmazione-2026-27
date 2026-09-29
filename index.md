@@ -14,5 +14,5 @@ Le informazioni sul corso saranno pubblicate qui.
 
 | N. | Data | Argomento | Slide | Esercizi |
 | --- | --- | --- | --- | --- |
-| 1 | Da definire | Introduzione al corso | — | — |
+| 1 | 29/09/2026 | Introduzione al corso | — | — |
 | 2 | Da definire | Da definire | — | — |
